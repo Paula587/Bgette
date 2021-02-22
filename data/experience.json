@@ -1,0 +1,14 @@
+{
+    "title": "Experience",
+    "experience": [{
+            "timeperiod": "2018-2019",
+            "school": "Lycée Kléber",
+            "description": "MPSI/MP* option informatique"
+        },
+        {
+            "timeperiod": "2019 - Present",
+            "company": "Télécom Paris",
+            "description": "2ème école selon le classement de l'étudiant "
+        }
+    ]
+}

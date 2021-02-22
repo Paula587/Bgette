@@ -1,0 +1,14 @@
+{
+    "title": "Services",
+    "services": [{
+            "icon": "pencil-ruler",
+            "title": "Java",
+            "description": "Réalisation d'un labyrinthe "
+        },
+        {
+            "icon": "pen-nib",
+            "title": "Python",
+            "description": "Compétences en analyse de données"
+        }
+    ]
+}
